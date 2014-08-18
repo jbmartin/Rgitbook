@@ -8,7 +8,7 @@ This page is for an R package used to interface with the [Gitbook.io](http://git
 This R package can be downloaded directly from Github using the `devtools` package:
 
 ```
-devtools::install_github('jbryer/Rgitbook')
+devtools::install_github('jbmartin/Rgitbook')
 ```
 
 #### Updates
